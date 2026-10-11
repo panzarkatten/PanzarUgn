@@ -15,12 +15,12 @@ A replacement front panel for a small oven, modified to fit a Novus N20K48 PID t
 
 | Folder | File | Description |
 |--------|------|-------------|
-| `CAD/` | `PID-oven-front-panel-mod v6.f3d` | Fusion 360 source model |
-| `CAD/` | `PID-oven-front-panel-mod v6.step` | STEP export for other CAD tools |
-| `STL/` | `PID-oven-front-panel-mod v6.stl` | **Printable front panel** (≈ 297.5 × 75 × 16 mm) |
-| `STL/` | `Oven-front-panel-mesh-v1-aligned.stl` | Reference mesh of the original panel (for fit checking, not for printing) |
-| `3DSCAN/` | `PanzarUgn Front Panel Scan v1.obj` | Raw 3D scan of the original front panel |
-| `3DSCAN/` | `PanzarUgn Side v1.obj` | Raw 3D scan of the oven side |
+| `CAD/` | `panzarugn-front-panel-mod-v6.f3d` | Fusion 360 source model |
+| `CAD/` | `panzarugn-front-panel-mod-v6.step` | STEP export for other CAD tools |
+| `STL/` | `panzarugn-front-panel-mod-v6.stl` | **Printable front panel** (≈ 297.5 × 75 × 16 mm) |
+| `STL/` | `panzarugn-front-panel-mesh-v1-aligned.stl` | Reference mesh of the original panel (for fit checking, not for printing) |
+| `3DSCAN/` | `panzarugn-front-panel-scan-v1.obj` | Raw 3D scan of the original front panel |
+| `3DSCAN/` | `panzarugn-side-scan-v1.obj` | Raw 3D scan of the oven side |
 
 All dimensions are in millimetres.
 
