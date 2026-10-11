@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+
+# Fusion 360 / CAD backups and lock files
+*.f3d.bak
+~$*
+
+# Slicer output
+*.gcode
+*.bgcode
+*.3mf.bak
