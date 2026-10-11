@@ -38,4 +38,6 @@ _TODO: describe sensor, controller and relay wiring._
 
 ## License
 
-See [LICENSE](LICENSE).
+© Panzarkatten. This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
+
+You may share, remix and use it commercially, as long as you give credit and share any derivatives under the same license. See [LICENSE](LICENSE) for the full text.
