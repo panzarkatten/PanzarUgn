@@ -4,12 +4,17 @@ A replacement front panel for a small oven, modified to fit a Novus N20K48 PID t
 
 ## Parts
 
-| Part | Link |
-|------|------|
-| Oven | https://amzn.eu/d/0dlwgoSS |
-| PID controller (Novus N20K48, 48×48 mm DIN) | https://www.automation24.se/pid-temperatur-och-processregulator-novus-n20k48-820k481024 |
-| Temperature sensor | _TODO: thermocouple/PT100 type_ |
-| Relay / SSR | _TODO_ |
+| Part | Details | Purpose |
+|------|---------|---------|
+| Oven | https://amzn.eu/d/0dlwgoSS | Base oven being modified |
+| PID controller | Novus N20K48, 48×48 mm DIN panel mount — [automation24.se](https://www.automation24.se/pid-temperatur-och-processregulator-novus-n20k48-820k481024) | Temperature control |
+| Temperature sensor | K-type thermocouple, stainless EGT probe with 1/8" NPT fitting and mini K-type connector (two variants bought) | Measures oven temperature for the PID |
+| Thermal cutoff | KSD301 bimetal thermostat, 230 °C, normally closed, 10 A | Independent over-temperature safety cutoff |
+| Power supply | MEAN WELL HDR-15-24, DIN rail, 24 V DC / 0.63 A (15.2 W) | Low-voltage supply |
+| Solid state relay | _TODO: SSR model_ | Switches the heating elements |
+| SSR mounting bracket | DIN rail adapter for single-phase SSR | Mounts the SSR on DIN rail |
+| Push buttons | 22 mm metal locking push buttons, rated 5 A / 250 V (4-pack) | Front panel switches |
+| Switch / relay | Heschen DPDT (_TODO: exact model_) | _TODO_ |
 
 ## Files
 
