@@ -38,12 +38,12 @@ Two K-type thermocouples were bought. They appear to be the same generic probe s
 
 | Folder | File | Description |
 |--------|------|-------------|
-| `CAD/` | `panzarugn-front-panel-mod-v6.f3d` | Fusion 360 source model |
-| `CAD/` | `panzarugn-front-panel-mod-v6.step` | STEP export for other CAD tools |
-| `STL/` | `panzarugn-front-panel-mod-v6.stl` | **Printable front panel** (≈ 297.5 × 75 × 16 mm) |
-| `STL/` | `panzarugn-front-panel-mesh-v1-aligned.stl` | Reference mesh of the original panel (for fit checking, not for printing) |
-| `3DSCAN/` | `panzarugn-front-panel-scan-v1.obj` | Raw 3D scan of the original front panel |
-| `3DSCAN/` | `panzarugn-side-scan-v1.obj` | Raw 3D scan of the oven side |
+| `cad/` | `panzarugn-front-panel-mod-v6.f3d` | Fusion 360 source model |
+| `cad/` | `panzarugn-front-panel-mod-v6.step` | STEP export for other CAD tools |
+| `stl/` | `panzarugn-front-panel-mod-v6.stl` | **Printable front panel** (≈ 297.5 × 75 × 16 mm) |
+| `stl/` | `panzarugn-front-panel-mesh-v1-aligned.stl` | Reference mesh of the original panel (for fit checking, not for printing) |
+| `3dscan/` | `panzarugn-front-panel-scan-v1.obj` | Raw 3D scan of the original front panel |
+| `3dscan/` | `panzarugn-side-scan-v1.obj` | Raw 3D scan of the oven side |
 
 All dimensions are in millimetres.
 
